@@ -1,0 +1,57 @@
+.main-logo{
+    width: 100px;
+}
+.carousel-inner{
+    background-image: url(./images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+body{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.nav-item{
+    margin: auto 5px;
+    padding-right: 10px;
+}
+.nav-link{
+  color: black;
+}
+.buy-btn{
+    background-color: black;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    padding: 8px;
+}
+.container{
+    padding-bottom: 20px;
+}
+h2{
+    font-weight: bold;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 10px lightgrey;
+    align-items: center;
+}
+.card-item {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.name{
+    
+    align-items: center;
+}
+.big-s{
+    width: 30px;
+    height: 20px;
+}
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
